@@ -16,4 +16,4 @@ First of all, we need to get handles of all heroes. By hooking assignment operat
 
 Then continuously scan all heroes, for all players, whether one player selects an invisible hero. However, if a player selected a visible hero, then hero became invisible, IsUnitSelected would still give a "true". Therefore I used a timer to check when a visible hero is selected and when it is visible. 
 
-Suwuhao is my used name. You can contact suwuhao@yahoo.com to verify.
+Contact: suwuhao@yahoo.com
